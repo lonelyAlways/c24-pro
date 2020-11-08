@@ -25,7 +25,7 @@ rotate(angle)
 
 }
 function keyPressed(){
-	if(keyCode ===UP_ARROW){
-		Matter.Body.applyForce(papperObject.body,papperObject.body.position;{x:85,y:85}) 
+	if(keyCode ===(UP_ARROW)){
+		Matter.Body.applyForce(papperObject.body,papperObject.body.position;{x:85,y:85});
 	}
 }
